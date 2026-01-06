@@ -6,9 +6,9 @@ A collection of high-quality, customizable screensavers for Windows featuring th
 
 ---
 
-## 🎯 Available Screensavers
+## Available Screensavers
 
-### ✅ DigitalRain Matrix Screensaver
+### DigitalRain Matrix Screensaver
 The classic Matrix digital rain effect with extensive customization options.
 
 - **Status**: ✅ Released
@@ -16,7 +16,7 @@ The classic Matrix digital rain effect with extensive customization options.
 - **[Download Free on Microsoft Store](#)** - Basic version with limited features
 - **[Read More →](./digital-rain.md)**
 
-### ✅ Vortext Screensaver
+### Vortext Screensaver
 Dynamic vortex effects with customizable colors and motion patterns.
 
 - **Status**: ✅ Released
@@ -25,7 +25,7 @@ Dynamic vortex effects with customizable colors and motion patterns.
 - **[Download Free on Microsoft Store](#)** - Free basic version
 - **[Read More →](./vortext.md)**
 
-### ✅ Fireside Cats Screensaver
+### Fireside Cats Screensaver
 Cozy fireplace animation with adorable cats enjoying the warmth.
 
 - **Status**: ✅ Released  
@@ -36,7 +36,7 @@ Cozy fireplace animation with adorable cats enjoying the warmth.
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Free Version
 - ✅ Beautiful screensaver animations
@@ -46,7 +46,7 @@ Cozy fireplace animation with adorable cats enjoying the warmth.
 - ✅ Lightweight and efficient
 ---
 
-## 💻 System Requirements
+## System Requirements
 
 - **OS**: Windows 10 (1809+) or Windows 11
 - **Architecture**: x64 (64-bit)
@@ -56,7 +56,7 @@ Cozy fireplace animation with adorable cats enjoying the warmth.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Method 1: Microsoft Store (Recommended)
 1. Search for the screensaver in Microsoft Store
@@ -71,7 +71,7 @@ Cozy fireplace animation with adorable cats enjoying the warmth.
 
 ---
 
-## 🔧 Development
+## Development
 
 This is a monorepo containing multiple screensaver projects built with:
 
@@ -81,7 +81,7 @@ This is a monorepo containing multiple screensaver projects built with:
 - **Installer**: Inno Setup 6
 - **Store**: MSIX packaging for Microsoft Store
 
-## 📄 License
+## License
 
 - **Free Version**: Free for personal use with feature limitations
 - **Pro Version**: One-time purchase for lifetime access to all features
@@ -89,14 +89,14 @@ This is a monorepo containing multiple screensaver projects built with:
 
 ---
 
-## 🙋 Support
+## Support
 
 - **Issues**: Report bugs or request features via email
 - **Updates**: Automatic updates via Microsoft Store or check Gumroad for new versions
 
 ---
 
-## 🌟 Why Choose These Screensavers?
+## Why Choose These Screensavers?
 
 ✅ **Professional Quality** - No ads, no spyware, no bloatware  
 ✅ **Optimized Performance** - Efficient rendering, minimal resource usage  
