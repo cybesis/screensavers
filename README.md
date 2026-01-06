@@ -12,7 +12,6 @@ A collection of high-quality, customizable screensavers for Windows featuring th
 The classic Matrix digital rain effect with extensive customization options.
 
 - **Status**: ✅ Released
-- **Version**: 1.0.155
 - **[Get Pro Version on Gumroad](https://cybesis.gumroad.com/l/MatrixDigitalRainScreensaverPro)** - Unlock all features
 - **[Download Free on Microsoft Store](#)** - Basic version with limited features
 - **[Read More →](./digital-rain.md)**
