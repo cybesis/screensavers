@@ -21,8 +21,8 @@ Dynamic vortex effects with customizable colors and motion patterns.
 
 - **Status**: ✅ Released
 - **Version**: Coming Soon
-- **[Get Pro Version on Gumroad](#)** - Full feature access
-- **[Download Free on Microsoft Store](#)** - Free basic version
+- **[Get Pro Version on Gumroad](#)**
+- **[Download Free on Microsoft Store](#)** - Free limited version
 - **[Read More →](./vortext.md)**
 
 ### Fireside Cats Screensaver
@@ -30,7 +30,7 @@ Cozy fireplace animation with adorable cats enjoying the warmth.
 
 - **Status**: ✅ Released  
 - **Version**: Coming Soon
-- **[Get Pro Version on Gumroad](#)** - Premium features
+- **[Get Pro Version on Gumroad](#)** 
 - **[Download Free on Microsoft Store](#)** - Free limited version
 - **[Read More →](./fireside-cats.md)**
 
