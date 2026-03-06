@@ -24,44 +24,44 @@ Transform your screen into the Matrix with cascading green characters, multiple 
 ### [Aurora](aurora.md)
 Realistic Northern Lights animation with dynamic colors and starfield.
 
-![Aurora Preview](https://img.shields.io/badge/status-released-success) ![Version](https://img.shields.io/badge/version-1.0.17-blue)
+![Aurora](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.28-lightgrey)
 
 Bring the beauty of the aurora borealis to your desktop with fluid wave patterns, twinkling stars, and smooth color transitions. Multiple color themes and customizable animation speed.
 
-**[📖 Learn More](aurora.md)** • **[💰 Get Pro](https://cybesis.com/products/aurora-pro)** • **[⬇️ Download Free](https://apps.microsoft.com/store/detail/9NXXXXXX)**
+**[📖 Learn More](aurora.md)**
 
 ---
 
 ### [Fireside Cats](fireside-cats.md)
-Cozy fireplace scene with adorable pixel art cats lounging by the fire.
+Cozy fireplace scene with adorable cats lounging by the fire.
 
-![Fireside Cats Preview](https://img.shields.io/badge/status-released-success) ![Version](https://img.shields.io/badge/version-1.0.69-blue)
+![Fireside Cats](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.1.21-lightgrey)
 
-Create a warm, relaxing ambiance with animated fireplace flames, multiple cat characters, and optional ambient sounds. Perfect for background atmosphere during work or relaxation.
+Create a warm, relaxing ambiance with animated fireplace flames and charming cat scenes. Perfect for a calm, cozy atmosphere while your PC is idle.
 
-**[📖 Learn More](fireside-cats.md)** • **[💰 Get Pro](https://cybesis.com/products/fireside-cats-pro)** • **[⬇️ Download Free](https://apps.microsoft.com/store/detail/XPFH5X6V21H5M1)**
+**[📖 Learn More](fireside-cats.md)**
 
 ---
 
 ### [Vortext](vortext.md)
 Hypnotic ASCII grid vortex with Midjourney-inspired warp animation.
 
-![Vortext Preview](https://img.shields.io/badge/status-released-success) ![Version](https://img.shields.io/badge/version-1.0.29-blue)
+![Vortext](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.68-lightgrey)
 
-Dive into a mesmerizing tunnel of warping ASCII characters with smooth 3D effects, multiple color schemes, and customizable speed. Retro terminal aesthetic meets modern GPU rendering.
+Dive into a mesmerizing tunnel of warping ASCII characters with smooth 3D warp effects and WebGL post-processing. Retro terminal aesthetic meets modern GPU rendering.
 
-**[📖 Learn More](vortext.md)** • **[💰 Get Pro](https://cybesis.com/products/vortext-pro)** • **[⬇️ Download Free](https://apps.microsoft.com/store/detail/9NXXXXXX)**
+**[📖 Learn More](vortext.md)**
 
 ---
 
-### [YouTube Snooze](youtube-snooze.md)
-Curated ambient YouTube videos - fireplaces, nature, space, and more.
+### [Video Link](video-link.md)
+Stream ambient video content from YouTube and other platforms as your screensaver.
 
-![YouTube Snooze Preview](https://img.shields.io/badge/status-released-success) ![Version](https://img.shields.io/badge/version-1.0.12-blue)
+![Video Link](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-2.0.57-lightgrey)
 
-Turn your idle screen into a window to peaceful ambience. Plays handpicked ambient videos from YouTube including cozy fireplaces, forest streams, ocean waves, and lo-fi sessions.
+Turn your idle screen into a living window. Play curated ambient playlists or bring your own YouTube links — nature scenes, lo-fi streams, fireplaces, and more.
 
-**[📖 Learn More](youtube-snooze.md)** • **[💰 Get Pro](https://cybesis.com/products/youtube-snooze-pro)** • **[⬇️ Download Free](https://apps.microsoft.com/store/detail/9NXXXXXX)**
+**[📖 Learn More](video-link.md)**
 
 ---
 
@@ -156,11 +156,11 @@ Turn your idle screen into a window to peaceful ambience. Plays handpicked ambie
 ## 📚 Documentation
 
 Each screensaver has detailed documentation:
-- [Digital Rain Documentation](digitalrain.md)
-- [Aurora Documentation](aurora.md)
-- [Fireside Cats Documentation](fireside-cats.md)
-- [Vortext Documentation](vortext.md)
-- [YouTube Snooze Documentation](youtube-snooze.md)
+- [Digital Rain Documentation](digitalrain.md) — Available now
+- [Aurora Documentation](aurora.md) — Coming soon
+- [Fireside Cats Documentation](fireside-cats.md) — Coming soon
+- [Vortext Documentation](vortext.md) — Coming soon
+- [Video Link Documentation](video-link.md) — Coming soon
 
 ---
 
@@ -176,7 +176,7 @@ Each screensaver has detailed documentation:
 
 ## 📜 License
 
-All screensavers © 2024 Cybesis Studios
+All screensavers © 2026 Cybesis Studios
 
 - **Free Versions**: Free for personal and commercial use with feature limitations
 - **Pro Versions**: One-time purchase grants lifetime license for personal or business use
@@ -189,17 +189,19 @@ See individual screensaver documentation for detailed license information.
 
 ## 🗺️ Roadmap
 
-**Coming Soon:**
-- macOS and Linux versions
-- More character sets for Digital Rain
-- New cat characters for Fireside Cats
-- Additional color themes across all screensavers
-- Custom playlist import for YouTube Snooze
-- Configuration sync across devices
+**Available Now:**
+- [Digital Rain](digitalrain.md) on Microsoft Store
 
-**In Development:**
-- New screensaver: **Star Field** (interstellar travel)
-- New screensaver: **Cellular Automata** (Conway's Game of Life)
+**Coming Soon:**
+- Aurora Borealis Screensaver (v1.0.28)
+- Fireside Cats (v1.1.21)
+- Vortext (v1.0.68)
+- Video Link (v2.0.57)
+
+**Further Ahead:**
+- macOS and Linux versions
+- New character sets and color themes
+- Configuration sync across devices
 
 ---
 
