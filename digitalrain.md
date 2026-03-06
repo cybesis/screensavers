@@ -51,15 +51,14 @@ Transform your idle screen into the iconic Matrix digital rain effect. Watch cas
 
 ## � Installation
 
-### Download from Microsoft Store (Recommended)
+### Download from the Microsoft Store
 Get the latest version with automatic updates from the [Microsoft Store](https://apps.microsoft.com/store/detail/digital-rain-screensaver/9NXXXXXX).
 
-### Manual Installation
-1. Download the latest `.scr` file from [Releases](https://github.com/cybesis/screensavers/releases)
-2. Right-click the file and select **Install**
-3. Open Windows Screen Saver settings (search for "screen saver" in Start menu)
-4. Select "Digital Rain" from the dropdown
-5. Click **Settings** to customize your experience
+After installing:
+1. Open Windows Screen Saver Settings (search "screen saver" in Start menu)
+2. Select "Digital Rain" from the dropdown
+3. Click **Settings** to customize
+4. Set your preferred wait time and click **Apply**
 
 ---
 

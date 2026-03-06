@@ -109,20 +109,15 @@ Turn your idle screen into a living window. Play curated ambient playlists or br
 
 ## 📥 Installation Guide
 
-### Method 1: Microsoft Store (Recommended)
+### Install from the Microsoft Store
 1. Click the Store link for your preferred screensaver above
-2. Click **Get** or **Install** (free versions)
+2. Click **Get** or **Install**
 3. Open Windows **Screen Saver Settings**:
    - Right-click desktop → **Personalize** → **Lock screen** → **Screen saver settings**
    - Or search "screen saver" in Start menu
 4. Select your installed screensaver from the dropdown
 5. Click **Settings** to customize
 6. Set wait time and click **Apply**
-
-### Method 2: Manual Installation (Advanced)
-1. Download the `.scr` file from [Releases](https://github.com/cybesis/screensavers/releases)
-2. Right-click the `.scr` file → **Install**
-3. Follow steps 3-6 from Method 1 above
 
 ### Upgrading to Pro
 1. Purchase a Pro license from Gumroad or our website
