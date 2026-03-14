@@ -4,7 +4,7 @@
 
 Cozy cats resting by warm fireplaces with soothing animated fire effects. A calming screensaver featuring beautiful cat imagery with realistic fireplace ambiance — perfect for a relaxed, warm atmosphere while your PC is idle.
 
-**By [Cybesis Studios](https://cybesis.com)**
+**By [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
@@ -33,6 +33,7 @@ Cozy cats resting by warm fireplaces with soothing animated fire effects. A calm
 ## Stay Updated
 
 - Website: [cybesis.com](https://cybesis.com)
+- Microsoft Store: [View listing](https://apps.microsoft.com/detail/9NFZQ089R6Q7) *(available at launch)*
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `fireside-cats`
 - Contact: support@cybesis.com
 
@@ -44,6 +45,14 @@ Cozy cats resting by warm fireplaces with soothing animated fire effects. A calm
 - [Aurora](aurora.md) — Coming soon
 - [Vortext](vortext.md) — Coming soon
 - [Video Link](video-link.md) — Coming soon
+
+---
+
+## ☕ Support the Developer
+
+Screensavers are built with passion by an indie solo developer. If you find value in this work and wish to support its continued development, consider buying me a coffee. Your support directly funds new features and maintenance.
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/miztizm)**
 
 ---
 

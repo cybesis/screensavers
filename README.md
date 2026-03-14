@@ -4,7 +4,7 @@
 
 High-quality, customizable Windows screensavers featuring stunning animations - from the iconic Matrix digital rain to cozy fireplace scenes and mesmerizing vortex effects. Professional quality with no ads, no bloatware, and offline operation.
 
-**Developed by [Cybesis Studios](https://cybesis.com)**
+**Developed by [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
@@ -17,7 +17,7 @@ The iconic Matrix cascading code effect with extensive customization.
 
 Transform your screen into the Matrix with cascading green characters, multiple character sets, and customizable rain direction. Features GPU-accelerated rendering for smooth 60 FPS animation.
 
-**[📖 Learn More](digitalrain.md)** • **[💰 Get Pro](https://cybesis.gumroad.com/l/MatrixDigitalRainScreensaverPro)** • **[⬇️ Download Free](https://apps.microsoft.com/store/detail/9NXXXXXX)**
+**[📖 Learn More](digitalrain.md)** • **[💰 Get Pro](https://cybesis.gumroad.com/l/MatrixDigitalRainScreensaverPro)** • **[⬇️ Download Free](https://apps.microsoft.com/detail/9ND4MDXV97GS)**
 
 ---
 
@@ -75,7 +75,7 @@ Turn your idle screen into a living window. Play curated ambient playlists or br
 - **Multi-Monitor**: Seamless support for multiple displays
 
 ### 🔒 Privacy First
-- **Fully Offline**: No internet required (except YouTube Snooze)
+- **Fully Offline**: No internet required (except Video Link)
 - **No Telemetry**: We don't track anything
 - **Local Storage**: All settings stored on your computer
 - **Open Development**: Transparent about what we build
@@ -133,7 +133,6 @@ Turn your idle screen into a living window. Play curated ambient playlists or br
 1. Install your chosen screensaver
 2. Open Settings and explore the presets
 3. Use the **Preview** button to test configurations
-4. Set a comfortable wait time (5-15 minutes recommended)
 
 **Customization:**
 - Start with presets, then fine-tune individual settings
@@ -142,7 +141,6 @@ Turn your idle screen into a living window. Play curated ambient playlists or br
 - Enable multi-monitor if you have multiple displays
 
 **Troubleshooting:**
-- If screensaver doesn't start, check wait time isn't set to "None"
 - Black screen? Install WebView2 Runtime (linked in troubleshooting sections)
 - Settings not saving? Run as Administrator once to create config files
 
@@ -165,7 +163,15 @@ Each screensaver has detailed documentation:
 - **Feature Requests**: [GitHub Issues](https://github.com/cybesis/screensavers/issues)
 - **Email Support**: support@cybesis.com
 - **Website**: [cybesis.com](https://cybesis.com)
-- **Twitter**: [@CybesiStudios](https://twitter.com/CybesiStudios)
+- **Twitter / X**: [@cybesis](https://twitter.com/cybesis)
+
+---
+
+## ☕ Support the Developer
+
+This screensaver collection is built with passion by an indie solo developer. If you find value in this work and wish to support its continued development, consider buying me a coffee. Your support directly funds new features and maintenance.
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/miztizm)**
 
 ---
 
@@ -200,6 +206,6 @@ See individual screensaver documentation for detailed license information.
 
 ---
 
-**Made with 💚 by Cybesis Studios**
+**Made with 💚 by Cybesis Studios — indie solo developer**
 
 *Transform your idle screen into art*

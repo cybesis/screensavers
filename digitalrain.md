@@ -2,7 +2,7 @@
 
 Transform your idle screen into the iconic Matrix digital rain effect. Watch cascading green characters flow across your display with smooth, customizable animation.
 
-**Developed by [Cybesis Studios](https://cybesis.com)**
+**Developed by [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
@@ -52,7 +52,7 @@ Transform your idle screen into the iconic Matrix digital rain effect. Watch cas
 ## � Installation
 
 ### Download from the Microsoft Store
-Get the latest version with automatic updates from the [Microsoft Store](https://apps.microsoft.com/store/detail/digital-rain-screensaver/9NXXXXXX).
+Get the latest version with automatic updates from the [Microsoft Store](https://apps.microsoft.com/detail/9ND4MDXV97GS).
 
 After installing:
 1. Open Windows Screen Saver Settings (search "screen saver" in Start menu)
@@ -140,52 +140,26 @@ The free version includes the core Matrix rain effect with 3 character sets and 
 
 ## 📜 License
 
-Digital Rain Matrix Screensaver © 2024 Cybesis Studios  
+Digital Rain Matrix Screensaver © 2026 Cybesis Studios  
 Licensed under the MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 🌟 Other Screensavers
 
-Check out our other creations:
-- [**Aurora**](aurora.md) - Northern Lights animation
-- [**Fireside Cats**](fireside-cats.md) - Cozy cats by the fireplace
-- [**Vortext**](vortext.md) - Hypnotic ASCII vortex
-- [**YouTube Snooze**](youtube-snooze.md) - Curated ambient videos
-
-[View all screensavers →](https://github.com/cybesis/screensavers)
-Install WebView2 Runtime from [Microsoft](https://developer.microsoft.com/microsoft-edge/webview2/)
-
-### macOS: "Damaged" or "Unidentified Developer" error
-Go to System Preferences → Security & Privacy → "Allow anyway"
-
-### Linux: Missing libraries
-Install GTK4 and WebKitGTK development packages:
-```bash
-# Debian/Ubuntu
-sudo apt install libgtk-4-dev libwebkit2gtk-4.1-dev
-
-# Fedora
-sudo dnf install gtk4-devel webkit2gtk4.1-devel
-
-# Arch
-sudo pacman -S gtk4 webkit2gtk
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by the iconic Matrix "digital rain" effect
-- Built with modern web technologies and native platform APIs
-- Developed and maintained by Cybesis Studios
+- [**Aurora**](aurora.md) — Coming soon
+- [**Fireside Cats**](fireside-cats.md) — Coming soon
+- [**Vortext**](vortext.md) — Coming soon
+- [**Video Link**](video-link.md) — Coming soon
 
 ---
 
-© 2025 Cybesis Studios | [cybesis.com](https://cybesis.com) | [Privacy Policy](docs/privacy-policy.md)
+## ☕ Support the Developer
+
+Digital Rain is built with passion by an indie solo developer. If you find value in this screensaver and wish to support its continued development, consider buying me a coffee. Your support directly funds new features and maintenance.
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/miztizm)**
+
+---
+
+*© 2026 Cybesis Studios*

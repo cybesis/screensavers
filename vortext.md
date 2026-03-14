@@ -4,7 +4,7 @@
 
 A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Watch a flowing vortex of characters pull you into a hypnotic tunnel with smooth 3D warp effects and WebGL post-processing.
 
-**By [Cybesis Studios](https://cybesis.com)**
+**By [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
@@ -33,6 +33,7 @@ A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Wa
 ## Stay Updated
 
 - Website: [cybesis.com](https://cybesis.com)
+- Microsoft Store: [View listing](https://apps.microsoft.com/detail/9N6FFKPCBZX9) *(available at launch)*
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `vortext`
 - Contact: support@cybesis.com
 
@@ -44,6 +45,14 @@ A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Wa
 - [Aurora](aurora.md) — Coming soon
 - [Fireside Cats](fireside-cats.md) — Coming soon
 - [Video Link](video-link.md) — Coming soon
+
+---
+
+## ☕ Support the Developer
+
+Screensavers are built with passion by an indie solo developer. If you find value in this work and wish to support its continued development, consider buying me a coffee. Your support directly funds new features and maintenance.
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/miztizm)**
 
 ---
 

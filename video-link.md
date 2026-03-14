@@ -4,7 +4,7 @@
 
 Stream ambient video content from popular platforms like YouTube directly as your screensaver. Set a playlist of calming nature scenes, lo-fi streams, fireplace videos, or anything you choose — Video Link turns your idle screen into a living window.
 
-**By [Cybesis Studios](https://cybesis.com)**
+**By [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
@@ -34,6 +34,7 @@ Stream ambient video content from popular platforms like YouTube directly as you
 ## Stay Updated
 
 - Website: [cybesis.com](https://cybesis.com)
+- Microsoft Store: [View listing](https://apps.microsoft.com/detail/9NWFR1D5RSK2) *(available at launch)*
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `video-link`
 - Contact: support@cybesis.com
 
@@ -45,6 +46,14 @@ Stream ambient video content from popular platforms like YouTube directly as you
 - [Aurora](aurora.md) — Coming soon
 - [Fireside Cats](fireside-cats.md) — Coming soon
 - [Vortext](vortext.md) — Coming soon
+
+---
+
+## ☕ Support the Developer
+
+Screensavers are built with passion by an indie solo developer. If you find value in this work and wish to support its continued development, consider buying me a coffee. Your support directly funds new features and maintenance.
+
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/miztizm)**
 
 ---
 
