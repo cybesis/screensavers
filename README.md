@@ -24,7 +24,7 @@ Transform your screen into the Matrix with cascading green characters, multiple 
 ### [Aurora](aurora.md)
 Realistic Northern Lights animation with dynamic colors and starfield.
 
-![Aurora](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.28-lightgrey)
+![Aurora](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.97-lightgrey)
 
 Bring the beauty of the aurora borealis to your desktop with fluid wave patterns, twinkling stars, and smooth color transitions. Multiple color themes and customizable animation speed.
 
@@ -35,7 +35,7 @@ Bring the beauty of the aurora borealis to your desktop with fluid wave patterns
 ### [Fireside Cats](fireside-cats.md)
 Cozy fireplace scene with adorable cats lounging by the fire.
 
-![Fireside Cats](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.1.21-lightgrey)
+![Fireside Cats](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.1.160-lightgrey)
 
 Create a warm, relaxing ambiance with animated fireplace flames and charming cat scenes. Perfect for a calm, cozy atmosphere while your PC is idle.
 
@@ -46,7 +46,7 @@ Create a warm, relaxing ambiance with animated fireplace flames and charming cat
 ### [Vortext](vortext.md)
 Hypnotic ASCII grid vortex with Midjourney-inspired warp animation.
 
-![Vortext](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.68-lightgrey)
+![Vortext](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.230-lightgrey)
 
 Dive into a mesmerizing tunnel of warping ASCII characters with smooth 3D warp effects and WebGL post-processing. Retro terminal aesthetic meets modern GPU rendering.
 
@@ -57,11 +57,44 @@ Dive into a mesmerizing tunnel of warping ASCII characters with smooth 3D warp e
 ### [Video Link](video-link.md)
 Stream ambient video content from YouTube and other platforms as your screensaver.
 
-![Video Link](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-2.0.57-lightgrey)
+![Video Link](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.103-lightgrey)
 
 Turn your idle screen into a living window. Play curated ambient playlists or bring your own YouTube links — nature scenes, lo-fi streams, fireplaces, and more.
 
 **[📖 Learn More](video-link.md)**
+
+---
+
+### [Magic Mirror](magic-mirror.md)
+Live webcam mirror with real-time artistic effects — privacy-first, 100% local processing.
+
+![Magic Mirror](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.36-lightgrey)
+
+Activates your camera when the PC goes idle and transforms the feed with edge detection, kaleidoscope, thermal, and other visual effects. No video ever leaves your machine.
+
+**[📖 Learn More](magic-mirror.md)**
+
+---
+
+### [Crypto Pulse](crypto-pulse.md)
+A live crypto price dashboard screensaver — cinematic modes, no API key required.
+
+![Crypto Pulse](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.0-lightgrey)
+
+Shows live prices, 24h change, market cap, volume, and sparkline charts via the free CoinGecko API. Five display modes (Dashboard, Minimal, Terminal, Orbit, Bubbles) with five futuristic themes.
+
+**[📖 Learn More](crypto-pulse.md)**
+
+---
+
+### [Valor Glory](valor-glory.md)
+Cinematic military-inspired screensaver — animated flags, radar HUDs, and glowing medals.
+
+![Valor Glory](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.0-lightgrey)
+
+Three modes: Honor Flag (cloth simulation with spring physics), Tactical Glory (full radar HUD with compass, data panels, and EKG waveform), and Medal Showcase (three medals with spotlights, pedestals, and rising particles). Abstract and ceremonial — no real flags or political content.
+
+**[📖 Learn More](valor-glory.md)**
 
 ---
 
@@ -149,11 +182,14 @@ Turn your idle screen into a living window. Play curated ambient playlists or br
 ## 📚 Documentation
 
 Each screensaver has detailed documentation:
-- [Digital Rain Documentation](digitalrain.md) — Available now
+- [Digital Rain Documentation](digitalrain.md) — Available now on Microsoft Store
 - [Aurora Documentation](aurora.md) — Coming soon
 - [Fireside Cats Documentation](fireside-cats.md) — Coming soon
 - [Vortext Documentation](vortext.md) — Coming soon
 - [Video Link Documentation](video-link.md) — Coming soon
+- [Magic Mirror Documentation](magic-mirror.md) — Coming soon
+- [Crypto Pulse Documentation](crypto-pulse.md) — Coming soon
+- [Valor Glory Documentation](valor-glory.md) — Coming soon
 
 ---
 
@@ -194,10 +230,13 @@ See individual screensaver documentation for detailed license information.
 - [Digital Rain](digitalrain.md) on Microsoft Store
 
 **Coming Soon:**
-- Aurora Borealis Screensaver (v1.0.28)
-- Fireside Cats (v1.1.21)
-- Vortext (v1.0.68)
-- Video Link (v2.0.57)
+- Aurora Borealis Screensaver (v1.0.97)
+- Fireside Cats (v1.1.160)
+- Vortext (v1.0.230)
+- Video Link (v1.0.103)
+- Magic Mirror (v1.0.36)
+- Crypto Pulse (v1.0.0)
+- Valor Glory (v1.0.0)
 
 **Further Ahead:**
 - macOS and Linux versions

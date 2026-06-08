@@ -25,7 +25,7 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 
 | | |
 |---|---|
-| Version | 1.0.28 (pre-release) |
+| Version | 1.0.97 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
 | Status | Under active development |
 
@@ -46,6 +46,9 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 - [Fireside Cats](fireside-cats.md) — Coming soon
 - [Vortext](vortext.md) — Coming soon
 - [Video Link](video-link.md) — Coming soon
+- [Magic Mirror](magic-mirror.md) — Coming soon
+- [Crypto Pulse](crypto-pulse.md) — Coming soon
+- [Valor Glory](valor-glory.md) — Coming soon
 
 ---
 

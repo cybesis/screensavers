@@ -24,7 +24,7 @@ Stream ambient video content from popular platforms like YouTube directly as you
 
 | | |
 |---|---|
-| Version | 2.0.57 (pre-release) |
+| Version | 1.0.103 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
 | Status | Under active development |
 | Requires | Internet connection |
@@ -46,6 +46,9 @@ Stream ambient video content from popular platforms like YouTube directly as you
 - [Aurora](aurora.md) — Coming soon
 - [Fireside Cats](fireside-cats.md) — Coming soon
 - [Vortext](vortext.md) — Coming soon
+- [Magic Mirror](magic-mirror.md) — Coming soon
+- [Crypto Pulse](crypto-pulse.md) — Coming soon
+- [Valor Glory](valor-glory.md) — Coming soon
 
 ---
 

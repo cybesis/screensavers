@@ -24,7 +24,7 @@ A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Wa
 
 | | |
 |---|---|
-| Version | 1.0.68 (pre-release) |
+| Version | 1.0.230 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
 | Status | Under active development |
 
@@ -45,6 +45,9 @@ A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Wa
 - [Aurora](aurora.md) — Coming soon
 - [Fireside Cats](fireside-cats.md) — Coming soon
 - [Video Link](video-link.md) — Coming soon
+- [Magic Mirror](magic-mirror.md) — Coming soon
+- [Crypto Pulse](crypto-pulse.md) — Coming soon
+- [Valor Glory](valor-glory.md) — Coming soon
 
 ---
 

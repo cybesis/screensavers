@@ -24,7 +24,7 @@ Cozy cats resting by warm fireplaces with soothing animated fire effects. A calm
 
 | | |
 |---|---|
-| Version | 1.1.21 (pre-release) |
+| Version | 1.1.160 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
 | Status | Under active development |
 
@@ -45,6 +45,9 @@ Cozy cats resting by warm fireplaces with soothing animated fire effects. A calm
 - [Aurora](aurora.md) — Coming soon
 - [Vortext](vortext.md) — Coming soon
 - [Video Link](video-link.md) — Coming soon
+- [Magic Mirror](magic-mirror.md) — Coming soon
+- [Crypto Pulse](crypto-pulse.md) — Coming soon
+- [Valor Glory](valor-glory.md) — Coming soon
 
 ---
 
