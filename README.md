@@ -211,7 +211,6 @@ Each screensaver has detailed documentation:
 
 - **Bug Reports**: [GitHub Issues](https://github.com/cybesis/screensavers/issues)
 - **Feature Requests**: [GitHub Issues](https://github.com/cybesis/screensavers/issues)
-- **Email Support**: support@cybesis.com
 - **Website**: [cybesis.com](https://cybesis.com)
 - **Twitter / X**: [@cybesis](https://twitter.com/cybesis)
 

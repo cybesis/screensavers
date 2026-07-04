@@ -38,7 +38,6 @@ Turn any YouTube video into your screensaver. Set calming nature scenes, lo-fi s
 - Get it: [Microsoft Store](https://apps.microsoft.com/detail/9NWFR1D5RSK2)
 - Website: [cybesis.com](https://cybesis.com)
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `video-link`
-- Contact: support@cybesis.com
 
 ---
 

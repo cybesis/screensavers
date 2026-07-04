@@ -149,7 +149,6 @@ Crypto Pulse is a **display-only screensaver** — it shows market data for info
 ## 💬 Support & Contact
 
 - **Issues & Bugs**: Use **Report a Bug** in the About tab, or open a [GitHub Issue](https://github.com/cybesis/screensavers/issues) with label `crypto-pulse`
-- **Email**: support@cybesis.com
 - **Website**: [cybesis.com](https://cybesis.com)
 
 ---

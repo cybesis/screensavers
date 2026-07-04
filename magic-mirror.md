@@ -38,7 +38,6 @@ A local webcam mirror screensaver with live visual effects — great for desks, 
 - Get it: [Microsoft Store](https://apps.microsoft.com/detail/9MVJ6QRL42RT)
 - Website: [cybesis.com](https://cybesis.com)
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `magic-mirror`
-- Contact: support@cybesis.com
 
 ---
 

@@ -38,7 +38,6 @@ Cozy cats resting by warm fireplaces with cinematic fireplace lighting. A calmin
 - Get it: [Microsoft Store](https://apps.microsoft.com/detail/9NFZQ089R6Q7)
 - Website: [cybesis.com](https://cybesis.com)
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `fireside-cats`
-- Contact: support@cybesis.com
 
 ---
 

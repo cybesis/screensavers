@@ -77,7 +77,6 @@ After installing:
 ## 💬 Support & Contact
 
 - **Issues & Bugs**: Use **Report a Bug** in the About tab, or open a [GitHub Issue](https://github.com/cybesis/screensavers/issues) with label `outpost`
-- **Email**: support@cybesis.com
 - **Website**: [cybesis.com](https://cybesis.com)
 
 ---

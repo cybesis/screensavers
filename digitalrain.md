@@ -150,7 +150,6 @@ One-click looks, each with its own character set, color, speed, and effects:
 ## 💬 Support & Contact
 
 - **Issues & Bugs**: Use the **Report a Bug** button in the app's About tab, or open a [GitHub Issue](https://github.com/cybesis/screensavers/issues)
-- **Email Support**: support@cybesis.com
 - **Website**: [cybesis.com](https://cybesis.com)
 
 ---

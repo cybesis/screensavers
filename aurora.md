@@ -37,7 +37,6 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 - Website: [cybesis.com](https://cybesis.com)
 - Microsoft Store: [View listing](https://apps.microsoft.com/detail/9NQXWX0MHS3B) *(available at launch)*
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `aurora`
-- Contact: support@cybesis.com
 
 ---
 

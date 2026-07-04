@@ -37,7 +37,6 @@ A cinematic ASCII text vortex screensaver inspired by Midjourney-style visuals. 
 - Get it: [Microsoft Store](https://apps.microsoft.com/detail/9N6FFKPCBZX9)
 - Website: [cybesis.com](https://cybesis.com)
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `vortext`
-- Contact: support@cybesis.com
 
 ---
 
