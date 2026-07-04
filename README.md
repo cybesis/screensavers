@@ -13,88 +13,99 @@ High-quality, customizable Windows screensavers featuring stunning animations - 
 ### [Digital Rain](digitalrain.md)
 The iconic Matrix cascading code effect with extensive customization.
 
-![Digital Rain Preview](https://img.shields.io/badge/status-released-success) ![Version](https://img.shields.io/badge/version-1.0.x-blue)
+![Digital Rain](https://img.shields.io/badge/status-released-success)
 
 Transform your screen into the Matrix with cascading green characters, multiple character sets, and customizable rain direction. Features GPU-accelerated rendering for smooth 60 FPS animation.
 
-**[📖 Learn More](digitalrain.md)** • **[💰 Get Pro](https://cybesis.gumroad.com/l/MatrixDigitalRainScreensaverPro)** • **[⬇️ Download Free](https://apps.microsoft.com/detail/9ND4MDXV97GS)**
+**[📖 Learn More](digitalrain.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9ND4MDXV97GS)**
 
 ---
 
 ### [Aurora](aurora.md)
 Realistic Northern Lights animation with dynamic colors and starfield.
 
-![Aurora](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.97-lightgrey)
+![Aurora](https://img.shields.io/badge/status-in%20certification-orange)
 
-Bring the beauty of the aurora borealis to your desktop with fluid wave patterns, twinkling stars, and smooth color transitions. Multiple color themes and customizable animation speed.
+Bring the beauty of the aurora borealis to your desktop with fluid wave patterns, twinkling stars, and smooth color transitions. Multiple color themes and customizable animation speed. Currently in Microsoft Store certification — launching very soon.
 
-**[📖 Learn More](aurora.md)**
+**[📖 Learn More](aurora.md)** • **[⬇️ Microsoft Store](https://apps.microsoft.com/detail/9NQXWX0MHS3B)** *(available at launch)*
 
 ---
 
 ### [Fireside Cats](fireside-cats.md)
 Cozy fireplace scene with adorable cats lounging by the fire.
 
-![Fireside Cats](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.1.160-lightgrey)
+![Fireside Cats](https://img.shields.io/badge/status-released-success)
 
-Create a warm, relaxing ambiance with animated fireplace flames and charming cat scenes. Perfect for a calm, cozy atmosphere while your PC is idle.
+Create a warm, relaxing ambiance with 20+ beautiful cat scenes, cinematic fireplace lighting, and silky-smooth 60 FPS transitions. Perfect for a calm, cozy atmosphere while your PC is idle.
 
-**[📖 Learn More](fireside-cats.md)**
+**[📖 Learn More](fireside-cats.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NFZQ089R6Q7)**
 
 ---
 
 ### [Vortext](vortext.md)
-Hypnotic ASCII grid vortex with Midjourney-inspired warp animation.
+Hypnotic ASCII text vortex with Midjourney-inspired warp animation.
 
-![Vortext](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.230-lightgrey)
+![Vortext](https://img.shields.io/badge/status-released-success)
 
-Dive into a mesmerizing tunnel of warping ASCII characters with smooth 3D warp effects and WebGL post-processing. Retro terminal aesthetic meets modern GPU rendering.
+Dive into a mesmerizing tunnel of warping ASCII characters with mathematical field warping and GPU post-processing. Retro terminal aesthetic meets modern rendering.
 
-**[📖 Learn More](vortext.md)**
+**[📖 Learn More](vortext.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9N6FFKPCBZX9)**
 
 ---
 
 ### [Video Link](video-link.md)
-Stream ambient video content from YouTube and other platforms as your screensaver.
+Stream ambient video content from YouTube as your screensaver.
 
-![Video Link](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.103-lightgrey)
+![Video Link](https://img.shields.io/badge/status-released-success)
 
-Turn your idle screen into a living window. Play curated ambient playlists or bring your own YouTube links — nature scenes, lo-fi streams, fireplaces, and more.
+Turn your idle screen into a living window. Play curated ambient content or bring your own YouTube links — nature scenes, lo-fi streams, fireplaces, and more.
 
-**[📖 Learn More](video-link.md)**
+**[📖 Learn More](video-link.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NWFR1D5RSK2)**
 
 ---
 
 ### [Magic Mirror](magic-mirror.md)
-Live webcam mirror with real-time artistic effects — privacy-first, 100% local processing.
+Live webcam mirror with real-time visual effects — privacy-first, 100% local processing.
 
-![Magic Mirror](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.36-lightgrey)
+![Magic Mirror](https://img.shields.io/badge/status-released-success)
 
-Activates your camera when the PC goes idle and transforms the feed with edge detection, kaleidoscope, thermal, and other visual effects. No video ever leaves your machine.
+Turns your screen into a local webcam mirror with live visual effects — great for desks, studios, kiosks, and streaming setups. No recording, no upload, no microphone, no network.
 
-**[📖 Learn More](magic-mirror.md)**
+**[📖 Learn More](magic-mirror.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9MVJ6QRL42RT)**
 
 ---
 
 ### [Crypto Pulse](crypto-pulse.md)
 A live crypto price dashboard screensaver — cinematic modes, no API key required.
 
-![Crypto Pulse](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.0-lightgrey)
+![Crypto Pulse](https://img.shields.io/badge/status-released-success)
 
-Shows live prices, 24h change, market cap, volume, and sparkline charts via the free CoinGecko API. Five display modes (Dashboard, Minimal, Terminal, Orbit, Bubbles) with five futuristic themes.
+Shows live prices, 24h change, market cap, volume, and sparkline charts via CoinGecko — no account or API key. Five cinematic display modes (Dashboard, Minimal, Terminal, Orbit, Bubbles).
 
-**[📖 Learn More](crypto-pulse.md)**
+**[📖 Learn More](crypto-pulse.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9N64L6PVMXJK)**
 
 ---
 
-### [Valor Glory](valor-glory.md)
-Cinematic military-inspired screensaver — animated flags, radar HUDs, and glowing medals.
+### [Living Flags](living-flags.md)
+World flags lit like a sunset — a waving cloth flag and a living mosaic.
 
-![Valor Glory](https://img.shields.io/badge/status-coming%20soon-orange) ![Version](https://img.shields.io/badge/version-1.0.0-lightgrey)
+![Living Flags](https://img.shields.io/badge/status-released-success)
 
-Three modes: Honor Flag (cloth simulation with spring physics), Tactical Glory (full radar HUD with compass, data panels, and EKG waveform), and Medal Showcase (three medals with spotlights, pedestals, and rising particles). Abstract and ceremonial — no real flags or political content.
+A celebration of the world's nations: a waving national flag in real cloth and a living mosaic of flags, all lit like a warm sunset. Pick any of 250+ countries, free, with 8 warm color themes.
 
-**[📖 Learn More](valor-glory.md)**
+**[📖 Learn More](living-flags.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9N7MGKLD0RHK)**
+
+---
+
+### [Outpost Tower](outpost.md)
+A quiet tactical outpost — looping field window, live radar, and a hall of medals.
+
+![Outpost Tower](https://img.shields.io/badge/status-released-success)
+
+Turns your idle screen into a quiet watch post: a looping window onto the field with ambience, a live radar feed with animated contacts, and a rotating hall of medals. Calm, cinematic, and just a little tactical.
+
+**[📖 Learn More](outpost.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NJ1DQHFWH6H)**
 
 ---
 
@@ -108,16 +119,16 @@ Three modes: Honor Flag (cloth simulation with spring physics), Tactical Glory (
 - **Multi-Monitor**: Seamless support for multiple displays
 
 ### 🔒 Privacy First
-- **Fully Offline**: No internet required (except Video Link)
+- **Fully Offline**: No internet required (except Video Link and Crypto Pulse's live prices)
 - **No Telemetry**: We don't track anything
 - **Local Storage**: All settings stored on your computer
 - **Open Development**: Transparent about what we build
 
 ### 💎 Free & Pro Options
 - **Free Version**: Beautiful animations with core features
-- **Pro Upgrade**: One-time purchase for lifetime access to all features
+- **Pro Upgrade**: One-time in-app purchase for lifetime access to all features
 - **Fair Pricing**: Affordable upgrades with real value
-- **Regular Updates**: New features and improvements included
+- **Regular Updates**: New features and improvements, delivered automatically via the Microsoft Store
 
 ### 🛠️ Modern Technology
 - **Built with .NET 8.0**: Latest framework for stability
@@ -153,10 +164,12 @@ Three modes: Honor Flag (cloth simulation with spring physics), Tactical Glory (
 6. Set wait time and click **Apply**
 
 ### Upgrading to Pro
-1. Purchase a Pro license from Gumroad or our website
-2. Open the screensaver **Settings** dialog
-3. Enter your license key in the activation section
-4. All Pro features unlock immediately (no reinstall needed)
+1. Open the screensaver's **Settings** window (from the Start Menu or Windows Screen Saver Settings)
+2. Go to the **License / Pro** tab
+3. Complete the one-time in-app purchase through the Microsoft Store
+4. All Pro features unlock immediately — no reinstall needed
+
+Your Pro upgrade is tied to your Microsoft account, so reinstalling or moving to a new PC keeps Pro unlocked.
 
 ---
 
@@ -182,14 +195,15 @@ Three modes: Honor Flag (cloth simulation with spring physics), Tactical Glory (
 ## 📚 Documentation
 
 Each screensaver has detailed documentation:
-- [Digital Rain Documentation](digitalrain.md) — Available now on Microsoft Store
-- [Aurora Documentation](aurora.md) — Coming soon
-- [Fireside Cats Documentation](fireside-cats.md) — Coming soon
-- [Vortext Documentation](vortext.md) — Coming soon
-- [Video Link Documentation](video-link.md) — Coming soon
-- [Magic Mirror Documentation](magic-mirror.md) — Coming soon
-- [Crypto Pulse Documentation](crypto-pulse.md) — Coming soon
-- [Valor Glory Documentation](valor-glory.md) — Coming soon
+- [Digital Rain Documentation](digitalrain.md) — Available now on the Microsoft Store
+- [Aurora Documentation](aurora.md) — In Microsoft Store certification, launching very soon
+- [Fireside Cats Documentation](fireside-cats.md) — Available now on the Microsoft Store
+- [Vortext Documentation](vortext.md) — Available now on the Microsoft Store
+- [Video Link Documentation](video-link.md) — Available now on the Microsoft Store
+- [Magic Mirror Documentation](magic-mirror.md) — Available now on the Microsoft Store
+- [Crypto Pulse Documentation](crypto-pulse.md) — Available now on the Microsoft Store
+- [Living Flags Documentation](living-flags.md) — Available now on the Microsoft Store
+- [Outpost Tower Documentation](outpost.md) — Available now on the Microsoft Store
 
 ---
 
@@ -216,7 +230,7 @@ This screensaver collection is built with passion by an indie solo developer. If
 All screensavers © 2026 Cybesis Studios
 
 - **Free Versions**: Free for personal and commercial use with feature limitations
-- **Pro Versions**: One-time purchase grants lifetime license for personal or business use
+- **Pro Versions**: One-time in-app purchase grants a lifetime license for personal or business use
 - **Source Code**: Proprietary (not open source)
 - **Libraries**: Built with open-source components - see individual LICENSE files
 
@@ -226,17 +240,18 @@ See individual screensaver documentation for detailed license information.
 
 ## 🗺️ Roadmap
 
-**Available Now:**
-- [Digital Rain](digitalrain.md) on Microsoft Store
+**Available Now on the Microsoft Store:**
+- [Digital Rain](digitalrain.md)
+- [Fireside Cats](fireside-cats.md)
+- [Vortext](vortext.md)
+- [Video Link](video-link.md)
+- [Magic Mirror](magic-mirror.md)
+- [Crypto Pulse](crypto-pulse.md)
+- [Living Flags](living-flags.md)
+- [Outpost Tower](outpost.md)
 
-**Coming Soon:**
-- Aurora Borealis Screensaver (v1.0.97)
-- Fireside Cats (v1.1.160)
-- Vortext (v1.0.230)
-- Video Link (v1.0.103)
-- Magic Mirror (v1.0.36)
-- Crypto Pulse (v1.0.0)
-- Valor Glory (v1.0.0)
+**In Microsoft Store Certification:**
+- [Aurora](aurora.md) — launching very soon
 
 **Further Ahead:**
 - macOS and Linux versions

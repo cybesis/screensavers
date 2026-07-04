@@ -1,22 +1,24 @@
 # Video Link Screensaver
 
-> **Status: In Development** — Not yet available. Coming soon.
+> **Status: Available now on the [Microsoft Store](https://apps.microsoft.com/detail/9NWFR1D5RSK2)**
 
-Stream ambient video content from popular platforms like YouTube directly as your screensaver. Set a playlist of calming nature scenes, lo-fi streams, fireplace videos, or anything you choose — Video Link turns your idle screen into a living window.
+Turn any YouTube video into your screensaver. Set calming nature scenes, lo-fi streams, fireplace videos, or anything you choose — Video Link turns your idle screen into a living window.
 
 **By [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
-## What to Expect
+## Highlights
 
-- Play YouTube and other video platform links as your screensaver
-- Curated ambient playlist presets (nature, lo-fi, space, fireplaces)
-- Bring your own links — full custom playlist support
-- Auto-mute / volume control option
-- Seamless looping and playlist shuffle
+- Play any YouTube video or playlist as your screensaver
+- Curated ambient content library (nature, lo-fi, space, fireplaces)
+- Custom video URL support — bring your own links
+- Clock overlay option
+- Multiple color themes
 
-**Pro upgrade** will be available at launch for **$4.99** (one-time).
+**Pro** unlocks multi-monitor support, a favorites library, and audio controls.
+
+**Pro upgrade**: one-time in-app purchase, $5.99 — made inside the screensaver's Settings window through the Microsoft Store.
 
 ---
 
@@ -24,17 +26,17 @@ Stream ambient video content from popular platforms like YouTube directly as you
 
 | | |
 |---|---|
-| Version | 1.0.103 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
-| Status | Under active development |
+| Updates | Automatic via Microsoft Store |
+| Status | Available now on the Microsoft Store |
 | Requires | Internet connection |
 
 ---
 
-## Stay Updated
+## Get It
 
+- Get it: [Microsoft Store](https://apps.microsoft.com/detail/9NWFR1D5RSK2)
 - Website: [cybesis.com](https://cybesis.com)
-- Microsoft Store: [View listing](https://apps.microsoft.com/detail/9NWFR1D5RSK2) *(available at launch)*
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `video-link`
 - Contact: support@cybesis.com
 
@@ -43,12 +45,13 @@ Stream ambient video content from popular platforms like YouTube directly as you
 ## Other Screensavers
 
 - [Digital Rain](digitalrain.md) — Available now on the Microsoft Store
-- [Aurora](aurora.md) — Coming soon
-- [Fireside Cats](fireside-cats.md) — Coming soon
-- [Vortext](vortext.md) — Coming soon
-- [Magic Mirror](magic-mirror.md) — Coming soon
-- [Crypto Pulse](crypto-pulse.md) — Coming soon
-- [Valor Glory](valor-glory.md) — Coming soon
+- [Aurora](aurora.md) — In Microsoft Store certification, launching very soon
+- [Fireside Cats](fireside-cats.md) — Available now on the Microsoft Store
+- [Vortext](vortext.md) — Available now on the Microsoft Store
+- [Magic Mirror](magic-mirror.md) — Available now on the Microsoft Store
+- [Crypto Pulse](crypto-pulse.md) — Available now on the Microsoft Store
+- [Living Flags](living-flags.md) — Available now on the Microsoft Store
+- [Outpost Tower](outpost.md) — Available now on the Microsoft Store
 
 ---
 

@@ -1,22 +1,24 @@
 # Vortext Screensaver
 
-> **Status: In Development** — Not yet available. Coming soon.
+> **Status: Available now on the [Microsoft Store](https://apps.microsoft.com/detail/9N6FFKPCBZX9)**
 
-A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Watch a flowing vortex of characters pull you into a hypnotic tunnel with smooth 3D warp effects and WebGL post-processing.
+A cinematic ASCII text vortex screensaver inspired by Midjourney-style visuals. Watch a flowing vortex of characters pull you into a hypnotic tunnel with mathematical field warping and GPU post-processing.
 
 **By [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
-## What to Expect
+## Highlights
 
-- Cinematic ASCII grid vortex with real-time warp animation
-- Logo blending and WebGL post-processing effects
-- Multiple color schemes and animation modes
+- Cinematic ASCII text vortex with classic swirl warp field animation
+- Midjourney-style ASCII text effect with smooth, cinematic motion
 - Retro terminal aesthetic with a modern GPU rendering core
-- Smooth 60 FPS performance
+- Optional clock overlay
+- Lightweight performance, fully offline
 
-**Pro upgrade** will be available at launch for **$4.99** (one-time).
+**Pro** unlocks 6 warp field algorithms (Swirl, Vortex, Ripple, Noise Mix, Wave, Tunnel), 4 color themes (Midjourney Classic, Cyberpunk, Ocean, Monochrome), logo overlay with smooth blending, WebGL effects (chromatic aberration, scanlines, vignette, glow), adjustable speed and intensity, custom prompt text lines, 3 performance modes, and multi-monitor support.
+
+**Pro upgrade**: one-time in-app purchase, $4.99 — made inside the screensaver's Settings window through the Microsoft Store.
 
 ---
 
@@ -24,16 +26,16 @@ A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Wa
 
 | | |
 |---|---|
-| Version | 1.0.230 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
-| Status | Under active development |
+| Updates | Automatic via Microsoft Store |
+| Status | Available now on the Microsoft Store |
 
 ---
 
-## Stay Updated
+## Get It
 
+- Get it: [Microsoft Store](https://apps.microsoft.com/detail/9N6FFKPCBZX9)
 - Website: [cybesis.com](https://cybesis.com)
-- Microsoft Store: [View listing](https://apps.microsoft.com/detail/9N6FFKPCBZX9) *(available at launch)*
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `vortext`
 - Contact: support@cybesis.com
 
@@ -42,12 +44,13 @@ A cinematic ASCII grid warp screensaver inspired by Midjourney-style visuals. Wa
 ## Other Screensavers
 
 - [Digital Rain](digitalrain.md) — Available now on the Microsoft Store
-- [Aurora](aurora.md) — Coming soon
-- [Fireside Cats](fireside-cats.md) — Coming soon
-- [Video Link](video-link.md) — Coming soon
-- [Magic Mirror](magic-mirror.md) — Coming soon
-- [Crypto Pulse](crypto-pulse.md) — Coming soon
-- [Valor Glory](valor-glory.md) — Coming soon
+- [Aurora](aurora.md) — In Microsoft Store certification, launching very soon
+- [Fireside Cats](fireside-cats.md) — Available now on the Microsoft Store
+- [Video Link](video-link.md) — Available now on the Microsoft Store
+- [Magic Mirror](magic-mirror.md) — Available now on the Microsoft Store
+- [Crypto Pulse](crypto-pulse.md) — Available now on the Microsoft Store
+- [Living Flags](living-flags.md) — Available now on the Microsoft Store
+- [Outpost Tower](outpost.md) — Available now on the Microsoft Store
 
 ---
 

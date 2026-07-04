@@ -1,5 +1,7 @@
 # Crypto Pulse Screensaver
 
+> **Status: Available now on the [Microsoft Store](https://apps.microsoft.com/detail/9N64L6PVMXJK)**
+
 A cinematic, display-only crypto price dashboard that turns your idle screen into a live market monitor. Rotates through your favorite coins showing real-time price, 24h change, market cap, volume, and sparkline charts — all animated with futuristic backgrounds and no API key required.
 
 **Developed by [Cybesis Studios](https://cybesis.com) — an indie solo developer**
@@ -77,14 +79,14 @@ The free tier shows the Dashboard with Bitcoin, Ethereum, Solana, and BNB on the
 | Multi-monitor support | ❌ | ✅ |
 | Priority support | ❌ | ✅ |
 
-**Pro upgrade: $4.99 one-time purchase** — lifetime access, no subscription.
+**Pro upgrade**: one-time in-app purchase, $2.99 — made inside the screensaver's Settings window through the Microsoft Store. Lifetime access, no subscription.
 
 ---
 
 ## 📥 Installation
 
 ### From the Microsoft Store
-Get the latest version with automatic updates from the Microsoft Store *(coming soon)*.
+Get the latest version with automatic updates from the [Microsoft Store](https://apps.microsoft.com/detail/9N64L6PVMXJK).
 
 After installing:
 1. Open **Crypto Pulse** from the Start Menu — it registers itself as your active screensaver and opens settings.
@@ -155,12 +157,13 @@ Crypto Pulse is a **display-only screensaver** — it shows market data for info
 ## 🌟 Other Screensavers
 
 - [**Digital Rain**](digitalrain.md) — Available now on the Microsoft Store
-- [**Aurora**](aurora.md) — Coming soon
-- [**Fireside Cats**](fireside-cats.md) — Coming soon
-- [**Vortext**](vortext.md) — Coming soon
-- [**Video Link**](video-link.md) — Coming soon
-- [**Magic Mirror**](magic-mirror.md) — Coming soon
-- [**Valor Glory**](valor-glory.md) — Coming soon
+- [**Aurora**](aurora.md) — In Microsoft Store certification, launching very soon
+- [**Fireside Cats**](fireside-cats.md) — Available now on the Microsoft Store
+- [**Vortext**](vortext.md) — Available now on the Microsoft Store
+- [**Video Link**](video-link.md) — Available now on the Microsoft Store
+- [**Magic Mirror**](magic-mirror.md) — Available now on the Microsoft Store
+- [**Living Flags**](living-flags.md) — Available now on the Microsoft Store
+- [**Outpost Tower**](outpost.md) — Available now on the Microsoft Store
 
 ---
 
@@ -176,9 +179,9 @@ Crypto Pulse is built with passion by an indie solo developer. If you enjoy it, 
 
 | | |
 |---|---|
-| Version | 1.0.0 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
-| Status | Under active development |
+| Updates | Automatic via Microsoft Store |
+| Status | Available now on the Microsoft Store |
 | Requires | Internet connection (for live prices) |
 
 ---

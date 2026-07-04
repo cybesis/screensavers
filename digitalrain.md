@@ -1,5 +1,7 @@
 # Digital Rain Matrix Screensaver
 
+> **Status: Available now on the [Microsoft Store](https://apps.microsoft.com/detail/9ND4MDXV97GS)**
+
 Transform your idle screen into the iconic Matrix digital rain effect. Watch cascading green glyphs flow down your display with smooth, movie-accurate animation — mirrored katakana, a flickering bright head, and authentic phosphor-green color, running at a silky 60 FPS.
 
 **Developed by [Cybesis Studios](https://cybesis.com) — an indie solo developer**
@@ -64,7 +66,7 @@ The **Free** version showcases the full authentic Matrix look — mirrored green
 | All 8 presets | ❌ | ✅ |
 | Priority support | ❌ | ✅ |
 
-[Get Digital Rain Pro →](https://cybesis.com/products/digital-rain-pro)
+**Pro upgrade**: one-time in-app purchase, $5.99 — open the app's **Settings** window, go to the **License** tab, and complete the purchase through the Microsoft Store. Pro unlocks immediately and stays tied to your Microsoft account, so reinstalls keep it.
 
 ---
 
@@ -112,7 +114,7 @@ One-click looks, each with its own character set, color, speed, and effects:
 - **Movie Effects**: Mirrored Glyphs, Movie-Accurate Colors, Head Flicker, Glyph Flash, Head Glow Bloom, Color Intensity
 - **Clock Display**: Show/hide the digital clock and set its color
 
-### Pro Extras (License Required)
+### Pro Extras (Pro Upgrade Required)
 - **Mouse Ripples**: Interactive distortion that follows your cursor
 - **Custom Message**: Show your own text over the falling rain
 - **Custom Background**: Blend your own image behind the rain
@@ -155,13 +157,14 @@ One-click looks, each with its own character set, color, speed, and effects:
 
 ## 🌟 Other Screensavers
 
-- [**Aurora**](aurora.md) — Coming soon
-- [**Fireside Cats**](fireside-cats.md) — Coming soon
-- [**Vortext**](vortext.md) — Coming soon
-- [**Video Link**](video-link.md) — Coming soon
-- [**Magic Mirror**](magic-mirror.md) — Coming soon
-- [**Crypto Pulse**](crypto-pulse.md) — Coming soon
-- [**Valor Glory**](valor-glory.md) — Coming soon
+- [**Aurora**](aurora.md) — In Microsoft Store certification, launching very soon
+- [**Fireside Cats**](fireside-cats.md) — Available now on the Microsoft Store
+- [**Vortext**](vortext.md) — Available now on the Microsoft Store
+- [**Video Link**](video-link.md) — Available now on the Microsoft Store
+- [**Magic Mirror**](magic-mirror.md) — Available now on the Microsoft Store
+- [**Crypto Pulse**](crypto-pulse.md) — Available now on the Microsoft Store
+- [**Living Flags**](living-flags.md) — Available now on the Microsoft Store
+- [**Outpost Tower**](outpost.md) — Available now on the Microsoft Store
 
 ---
 

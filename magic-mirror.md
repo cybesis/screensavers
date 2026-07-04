@@ -1,22 +1,24 @@
 # Magic Mirror Screensaver
 
-> **Status: In Development** — Not yet available. Coming soon.
+> **Status: Available now on the [Microsoft Store](https://apps.microsoft.com/detail/9MVJ6QRL42RT)**
 
-A live webcam mirror screensaver with real-time visual effects. Magic Mirror activates your camera when the PC goes idle and transforms the feed with artistic filters — perfect for desks, studios, kiosks, and streaming setups. All processing is 100% local; no video ever leaves your machine.
+A local webcam mirror screensaver with live visual effects — great for desks, studios, kiosks, and streaming setups. Every frame is processed 100% locally: no recording, no upload, no microphone, no network.
 
 **By [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
 ---
 
-## What to Expect
+## Highlights
 
-- Live webcam feed as your screensaver — see yourself in ambient mode
-- Artistic visual effects: edge detection, kaleidoscope, pixelate, thermal, and more
-- Multiple overlay styles and color grading
-- Fully local — no video upload, no cloud, no accounts
-- Smooth, hardware-accelerated processing
+- Local webcam mirror with live visual effects — see yourself in ambient mode
+- Camera on by default — disable it any time in settings
+- 100% local processing: no recording, no upload, no microphone, no network
+- Clock and custom-text overlays
+- Beautiful fallback scene when no camera is present
 
-**Pro upgrade** will be available at launch for **$5.99** (one-time).
+**Pro** unlocks the premium effect pack — CRT, VHS, ASCII, thermal, kaleidoscope, cyberpunk, and more — plus multi-monitor support.
+
+**Pro upgrade**: one-time in-app purchase, $4.99 — made inside the screensaver's Settings window through the Microsoft Store.
 
 ---
 
@@ -24,15 +26,16 @@ A live webcam mirror screensaver with real-time visual effects. Magic Mirror act
 
 | | |
 |---|---|
-| Version | 1.0.36 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
-| Status | Under active development |
-| Requires | Webcam or capture device |
+| Updates | Automatic via Microsoft Store |
+| Status | Available now on the Microsoft Store |
+| Requires | Webcam or capture device (optional — fallback scene without one) |
 
 ---
 
-## Stay Updated
+## Get It
 
+- Get it: [Microsoft Store](https://apps.microsoft.com/detail/9MVJ6QRL42RT)
 - Website: [cybesis.com](https://cybesis.com)
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `magic-mirror`
 - Contact: support@cybesis.com
@@ -42,12 +45,13 @@ A live webcam mirror screensaver with real-time visual effects. Magic Mirror act
 ## Other Screensavers
 
 - [Digital Rain](digitalrain.md) — Available now on the Microsoft Store
-- [Aurora](aurora.md) — Coming soon
-- [Fireside Cats](fireside-cats.md) — Coming soon
-- [Vortext](vortext.md) — Coming soon
-- [Video Link](video-link.md) — Coming soon
-- [Crypto Pulse](crypto-pulse.md) — Coming soon
-- [Valor Glory](valor-glory.md) — Coming soon
+- [Aurora](aurora.md) — In Microsoft Store certification, launching very soon
+- [Fireside Cats](fireside-cats.md) — Available now on the Microsoft Store
+- [Vortext](vortext.md) — Available now on the Microsoft Store
+- [Video Link](video-link.md) — Available now on the Microsoft Store
+- [Crypto Pulse](crypto-pulse.md) — Available now on the Microsoft Store
+- [Living Flags](living-flags.md) — Available now on the Microsoft Store
+- [Outpost Tower](outpost.md) — Available now on the Microsoft Store
 
 ---
 

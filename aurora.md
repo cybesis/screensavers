@@ -1,8 +1,8 @@
 # Aurora Borealis Screensaver
 
-> **Status: In Development** — Not yet available. Coming soon.
+> **Status: In Microsoft Store certification — launching very soon.**
 
-Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora simulates vibrant aurora borealis waves dancing across the sky with dynamic color shifting and an optional starfield background.
+Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora simulates luminous ribbons of color rippling over a calm, starlit sky — a serene, GPU-accelerated aurora for relaxation, focus, and ambient display.
 
 **By [Cybesis Studios](https://cybesis.com) — an indie solo developer**
 
@@ -11,13 +11,14 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 ## What to Expect
 
 - Realistic aurora wave simulation with fluid, organic light patterns
+- Dynamic, color-shifting light ribbons
 - Multiple color themes: Northern Lights, Purple Dawn, Fire Sky
 - Optional animated starfield background
-- Smooth 60 FPS GPU-accelerated animation
-- Multi-monitor support
+- Smooth 60 FPS WebGL rendering
+- Multi-monitor support (Pro)
 - Lightweight — minimal CPU and memory usage
 
-**Pro upgrade** will be available at launch for **$4.99** (one-time).
+**Pro upgrade**: one-time in-app purchase, $4.99 — made inside the screensaver's Settings window through the Microsoft Store *(available at launch)*.
 
 ---
 
@@ -25,9 +26,9 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 
 | | |
 |---|---|
-| Version | 1.0.97 (pre-release) |
 | Platform | Windows 10 / 11 (x64) |
-| Status | Under active development |
+| Updates | Automatic via Microsoft Store |
+| Status | In Microsoft Store certification — launching very soon |
 
 ---
 
@@ -43,12 +44,13 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 ## Other Screensavers
 
 - [Digital Rain](digitalrain.md) — Available now on the Microsoft Store
-- [Fireside Cats](fireside-cats.md) — Coming soon
-- [Vortext](vortext.md) — Coming soon
-- [Video Link](video-link.md) — Coming soon
-- [Magic Mirror](magic-mirror.md) — Coming soon
-- [Crypto Pulse](crypto-pulse.md) — Coming soon
-- [Valor Glory](valor-glory.md) — Coming soon
+- [Fireside Cats](fireside-cats.md) — Available now on the Microsoft Store
+- [Vortext](vortext.md) — Available now on the Microsoft Store
+- [Video Link](video-link.md) — Available now on the Microsoft Store
+- [Magic Mirror](magic-mirror.md) — Available now on the Microsoft Store
+- [Crypto Pulse](crypto-pulse.md) — Available now on the Microsoft Store
+- [Living Flags](living-flags.md) — Available now on the Microsoft Store
+- [Outpost Tower](outpost.md) — Available now on the Microsoft Store
 
 ---
 
