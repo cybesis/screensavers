@@ -156,7 +156,7 @@ Crypto Pulse is a **display-only screensaver** — it shows market data for info
 ## 🌟 Other Screensavers
 
 - [**Digital Rain**](digitalrain.md) — Available now on the Microsoft Store
-- [**Aurora**](aurora.md) — In Microsoft Store certification, launching very soon
+- [**Aurora**](aurora.md) — Available now on the Microsoft Store
 - [**Fireside Cats**](fireside-cats.md) — Available now on the Microsoft Store
 - [**Vortext**](vortext.md) — Available now on the Microsoft Store
 - [**Video Link**](video-link.md) — Available now on the Microsoft Store

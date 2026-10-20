@@ -44,7 +44,7 @@ Cozy cats resting by warm fireplaces with cinematic fireplace lighting. A calmin
 ## Other Screensavers
 
 - [Digital Rain](digitalrain.md) — Available now on the Microsoft Store
-- [Aurora](aurora.md) — In Microsoft Store certification, launching very soon
+- [Aurora](aurora.md) — Available now on the Microsoft Store
 - [Vortext](vortext.md) — Available now on the Microsoft Store
 - [Video Link](video-link.md) — Available now on the Microsoft Store
 - [Magic Mirror](magic-mirror.md) — Available now on the Microsoft Store

@@ -1,6 +1,6 @@
 # Aurora Borealis Screensaver
 
-> **Status: In Microsoft Store certification — launching very soon.**
+> **Status: Released — free on the Microsoft Store. The Pro upgrade is available as an in-app purchase.**
 
 Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora simulates luminous ribbons of color rippling over a calm, starlit sky — a serene, GPU-accelerated aurora for relaxation, focus, and ambient display.
 
@@ -18,7 +18,7 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 - Multi-monitor support (Pro)
 - Lightweight — minimal CPU and memory usage
 
-**Pro upgrade**: one-time in-app purchase, $4.99 — made inside the screensaver's Settings window through the Microsoft Store *(available at launch)*.
+**Pro upgrade**: one-time in-app purchase, $4.99 — made inside the screensaver's Settings window through the Microsoft Store. The free version is fully usable; Pro adds the extra themes and options.
 
 ---
 
@@ -27,15 +27,16 @@ Experience the mesmerizing beauty of the Northern Lights on your desktop. Aurora
 | | |
 |---|---|
 | Platform | Windows 10 / 11 (x64) |
+| Released | July 6, 2026 — available now on the Microsoft Store |
 | Updates | Automatic via Microsoft Store |
-| Status | In Microsoft Store certification — launching very soon |
+| Status | Released |
 
 ---
 
 ## Stay Updated
 
 - Website: [cybesis.com](https://cybesis.com)
-- Microsoft Store: [View listing](https://apps.microsoft.com/detail/9NQXWX0MHS3B) *(available at launch)*
+- Microsoft Store: [Aurora Borealis Screensaver](https://apps.microsoft.com/detail/9NQXWX0MHS3B) — free download
 - Feedback: [github.com/cybesis/screensavers](https://github.com/cybesis/screensavers) — label `aurora`
 
 ---

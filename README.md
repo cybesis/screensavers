@@ -24,11 +24,11 @@ Transform your screen into the Matrix with cascading green characters, multiple 
 ### [Aurora](aurora.md)
 Realistic Northern Lights animation with dynamic colors and starfield.
 
-![Aurora](https://img.shields.io/badge/status-in%20certification-orange)
+![Aurora](https://img.shields.io/badge/status-released-success)
 
-Bring the beauty of the aurora borealis to your desktop with fluid wave patterns, twinkling stars, and smooth color transitions. Multiple color themes and customizable animation speed. Currently in Microsoft Store certification — launching very soon.
+Bring the beauty of the aurora borealis to your desktop with fluid wave patterns, twinkling stars, and smooth color transitions. Multiple color themes and customizable animation speed. Available now, free on the Microsoft Store, with an optional in-app Pro upgrade.
 
-**[📖 Learn More](aurora.md)** • **[⬇️ Microsoft Store](https://apps.microsoft.com/detail/9NQXWX0MHS3B)** *(available at launch)*
+**[📖 Learn More](aurora.md)** • **[⬇️ Get it on the Microsoft Store](https://apps.microsoft.com/detail/9NQXWX0MHS3B)**
 
 ---
 
@@ -196,7 +196,7 @@ Your Pro upgrade is tied to your Microsoft account, so reinstalling or moving to
 
 Each screensaver has detailed documentation:
 - [Digital Rain Documentation](digitalrain.md) — Available now on the Microsoft Store
-- [Aurora Documentation](aurora.md) — In Microsoft Store certification, launching very soon
+- [Aurora Documentation](aurora.md) — Available now on the Microsoft Store
 - [Fireside Cats Documentation](fireside-cats.md) — Available now on the Microsoft Store
 - [Vortext Documentation](vortext.md) — Available now on the Microsoft Store
 - [Video Link Documentation](video-link.md) — Available now on the Microsoft Store
@@ -241,6 +241,7 @@ See individual screensaver documentation for detailed license information.
 
 **Available Now on the Microsoft Store:**
 - [Digital Rain](digitalrain.md)
+- [Aurora](aurora.md)
 - [Fireside Cats](fireside-cats.md)
 - [Vortext](vortext.md)
 - [Video Link](video-link.md)
@@ -248,9 +249,6 @@ See individual screensaver documentation for detailed license information.
 - [Crypto Pulse](crypto-pulse.md)
 - [Living Flags](living-flags.md)
 - [Outpost Tower](outpost.md)
-
-**In Microsoft Store Certification:**
-- [Aurora](aurora.md) — launching very soon
 
 **Further Ahead:**
 - macOS and Linux versions
